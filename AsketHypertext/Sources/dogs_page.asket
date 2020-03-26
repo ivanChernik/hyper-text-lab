@@ -1,0 +1,17 @@
+$asket
+  $info name="Some page about dogs" path="dogs-page"
+  $content
+    $link text="Go to the end" url="#seealso"
+    $label value="The origin of the domestic dog includes the dog's evolutionary divergence from the wolf, its domestication, and its development into dog types and dog breeds. The dog is a member of the genus Canis, which forms part of the wolf-like canids, and was the first species and the only large carnivore to have been domesticated.[14][24] The dog and the extant gray wolf are sister taxa, as modern wolves are not closely related to the population of wolves that was first domesticated. The genetic divergence between dogs and wolves occurred between 40,000–20,000 years ago, just before or during the Last Glacial Maximum. This timespan represents the upper time-limit for the commencement of domestication because it is the time of divergence and not the time of domestication, which occurred later. The domestication of animals commenced over 15,000 years ago, beginning with the grey wolf (Canis lupus) by nomadic hunter-gatherers. The archaeological record and genetic analysis show the remains of the Bonn–Oberkassel dog buried beside humans 14,200 years ago to be the first undisputed dog, with disputed remains occurring 36,000 years ago. It was not until 11,000 years ago that people living in the Near East entered into relationships with wild populations of aurochs, boar, sheep, and goats. Where the domestication of the dog took place remains debated, with the most plausible proposals spanning Western Europe,[9][26] Central Asia[26][27] and East Asia.[26][28] This has been made more complicated by the recent proposal that an initial wolf population split into East and West Eurasian groups. These two groups, before going extinct, were domesticated independently into two distinct dog populations between 14,000 and 6,400 years ago. The Western Eurasian dog population was gradually and partially replaced by East Asian dogs introduced by humans at least 6,400 years ago.[26][2] This proposal is also debated."
+    $picture source="dogs.jpg"
+    $label value="They perform many roles for humans, such as"
+    $list
+      $item value="hunting"
+      $item value="herding"
+      $item value="pulling loads"
+      $item value="protection"
+      $item value="assisting police and military"
+      $item value="aiding disabled people"
+      $item value="therapeutic roles"
+    $label id="seealso" value="See also"
+    $link text="Cats" url="cats-page"
